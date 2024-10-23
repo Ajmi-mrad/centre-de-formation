@@ -1,0 +1,14 @@
+
+h1{
+    color: #23AB57 !important;
+}
+h3{
+    color: #37DE0E;
+}
+.form-label{
+    color: #C3E623;
+    font-weight: bold;
+}
+a{
+    color: hsl(190, 63%, 47%);
+}
